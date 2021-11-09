@@ -5,3 +5,6 @@ from urllib.parse import urljoin
 #define user and pass
 USER = "JS-TESTER"
 PASS = "ipCU12ySxI"
+
+#session
+session = requests.session()
